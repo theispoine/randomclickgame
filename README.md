@@ -1,6 +1,6 @@
-# Jitter Click Test
+# Random Click Game
 
-Jitter Click Test, WPF (Windows Presentation Foundation) ve C# kullanarak geliştirilmiş bir oyundur. Bu oyunda, kullanıcının belirli bir süre içerisinde bir düğmeye ne kadar hızlı tıklayabildiğini test etmek amaçlanmaktadır.
+Random Click Game, WPF (Windows Presentation Foundation) ve C# kullanarak geliştirilmiş bir oyundur. Bu oyunda, kullanıcının belirli bir süre içerisinde bir düğmeye ne kadar hızlı tıklayabildiğini test etmek amaçlanmaktadır.
 
 ## Nasıl Çalışır?
 
@@ -11,7 +11,7 @@ Jitter Click Test, WPF (Windows Presentation Foundation) ve C# kullanarak geliş
 
 ## Projenin İşlevi ve Kapsamı
 
-Jitter Click Test, kullanıcının fare tıklama hızını test etmek için tasarlanmış basit bir uygulamadır. Kullanıcı, belirli bir süre içinde düğmeye ne kadar hızlı tıkladığını ölçebilir ve skorunu görebilir. Projenin kapsamı aşağıdaki özellikleri içerir:
+Random Click Game, kullanıcının fare tıklama hızını ve refleksini test etmek için tasarlanmış basit bir uygulamadır. Kullanıcı, belirli bir süre içinde düğmeye ne kadar hızlı tıkladığını ölçebilir ve skorunu görebilir. Projenin kapsamı aşağıdaki özellikleri içerir:
 
 - Başlangıç ekranı: Kullanıcının adını girebileceği ve oyunu başlatabileceği bir başlangıç ekranı bulunur.
 - Oyun ekranı: Oyun süresi ve tıklama sayısını gösteren bir ekran bulunur. Kullanıcı düğmeye tıkladıkça düğme rastgele yerlere gider ve rengi değişir.
