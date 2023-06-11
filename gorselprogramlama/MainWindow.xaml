@@ -1,0 +1,35 @@
+﻿<Window x:Class="JitterClickTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Jitter Click Test" Height="300" Width="400">
+    <Grid>
+        <Grid x:Name="startScreen" Visibility="Visible" Height="269">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="173*"/>
+                <ColumnDefinition Width="219*"/>
+            </Grid.ColumnDefinitions>
+            <Image Grid.ColumnSpan="2" Margin="-54,-38,-54,-38">
+                <Image.Effect>
+                    <BlurEffect/>
+                </Image.Effect>
+                <Image.Source>
+                    <BitmapImage UriSource="https://i.hizliresim.com/QMmy6G.gif" />
+                </Image.Source>
+            </Image>
+            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="20" FontWeight="Bold" Margin="96,104,96,0" Width="200" Grid.ColumnSpan="2" Foreground="#FFFFE2E2"><Run Text="    "/><Run Text="Reflex"/><Run Text=" Click Test"/></TextBlock>
+            <TextBox x:Name="nameTextBox" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="96,136,96,115" Width="200" Grid.ColumnSpan="2"/>
+            <Button x:Name="startButton" Content="Start Game" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="134,168,174,81" Click="startButton_Click" Width="84" Grid.ColumnSpan="2"/>
+            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Top" FontWeight="Bold" Margin="10,136,81.726,0" Height="16" Width="81" RenderTransformOrigin="1.132,0.626" Foreground="#FFC5C5C5"><Run Text="   "/><Run Text="UserName"/></TextBlock>
+        </Grid>
+
+        <Grid x:Name="gameScreen" Visibility="Collapsed">
+            <Canvas>
+                <Button x:Name="clickButton" Content="Tıkla!" Width="100" Height="30" Click="clickButton_Click" IsEnabled="False"/>
+            </Canvas>
+            <TextBlock x:Name="clickCountTextBlock" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,20"/>
+            <TextBlock x:Name="timeRemainingTextBlock" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,20,0,0" FontSize="20" FontWeight="Bold"/>
+        </Grid>
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,29 @@
+C:\Users\Kadir Çiçek\source\repos\gorsel_programlama\gorselprogramlama\bin\Debug\gorselprogramlama.exe.config
+C:\Users\Kadir Çiçek\source\repos\gorsel_programlama\gorselprogramlama\bin\Debug\gorselprogramlama.exe
+C:\Users\Kadir Çiçek\source\repos\gorsel_programlama\gorselprogramlama\bin\Debug\gorselprogramlama.pdb
+C:\Users\Kadir Çiçek\source\repos\gorsel_programlama\gorselprogramlama\obj\Debug\gorselprogramlama.csproj.AssemblyReference.cache
+C:\Users\Kadir Çiçek\source\repos\gorsel_programlama\gorselprogramlama\obj\Debug\gorselprogramlama.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kadir Çiçek\source\repos\gorsel_programlama\gorselprogramlama\obj\Debug\MainWindow.g.cs
+C:\Users\Kadir Çiçek\source\repos\gorsel_programlama\gorselprogramlama\obj\Debug\App.g.cs
+C:\Users\Kadir Çiçek\source\repos\gorsel_programlama\gorselprogramlama\obj\Debug\gorselprogramlama_MarkupCompile.cache
+C:\Users\Kadir Çiçek\source\repos\gorsel_programlama\gorselprogramlama\obj\Debug\MainWindow.baml
+C:\Users\Kadir Çiçek\source\repos\gorsel_programlama\gorselprogramlama\obj\Debug\gorselprogramlama.g.resources
+C:\Users\Kadir Çiçek\source\repos\gorsel_programlama\gorselprogramlama\obj\Debug\gorselprogramlama.Properties.Resources.resources
+C:\Users\Kadir Çiçek\source\repos\gorsel_programlama\gorselprogramlama\obj\Debug\gorselprogramlama.csproj.GenerateResource.cache
+C:\Users\Kadir Çiçek\source\repos\gorsel_programlama\gorselprogramlama\obj\Debug\gorselprogramlama.csproj.CoreCompileInputs.cache
+C:\Users\Kadir Çiçek\source\repos\gorsel_programlama\gorselprogramlama\obj\Debug\gorselprogramlama.exe
+C:\Users\Kadir Çiçek\source\repos\gorsel_programlama\gorselprogramlama\obj\Debug\gorselprogramlama.pdb
+C:\Users\Uğur_Ceylan\Desktop\gorsel_programlama\gorselprogramlama\bin\Debug\gorselprogramlama.exe.config
+C:\Users\Uğur_Ceylan\Desktop\gorsel_programlama\gorselprogramlama\bin\Debug\gorselprogramlama.exe
+C:\Users\Uğur_Ceylan\Desktop\gorsel_programlama\gorselprogramlama\bin\Debug\gorselprogramlama.pdb
+C:\Users\Uğur_Ceylan\Desktop\gorsel_programlama\gorselprogramlama\obj\Debug\gorselprogramlama.csproj.AssemblyReference.cache
+C:\Users\Uğur_Ceylan\Desktop\gorsel_programlama\gorselprogramlama\obj\Debug\MainWindow.baml
+C:\Users\Uğur_Ceylan\Desktop\gorsel_programlama\gorselprogramlama\obj\Debug\MainWindow.g.cs
+C:\Users\Uğur_Ceylan\Desktop\gorsel_programlama\gorselprogramlama\obj\Debug\App.g.cs
+C:\Users\Uğur_Ceylan\Desktop\gorsel_programlama\gorselprogramlama\obj\Debug\gorselprogramlama_MarkupCompile.cache
+C:\Users\Uğur_Ceylan\Desktop\gorsel_programlama\gorselprogramlama\obj\Debug\gorselprogramlama.g.resources
+C:\Users\Uğur_Ceylan\Desktop\gorsel_programlama\gorselprogramlama\obj\Debug\gorselprogramlama.Properties.Resources.resources
+C:\Users\Uğur_Ceylan\Desktop\gorsel_programlama\gorselprogramlama\obj\Debug\gorselprogramlama.csproj.GenerateResource.cache
+C:\Users\Uğur_Ceylan\Desktop\gorsel_programlama\gorselprogramlama\obj\Debug\gorselprogramlama.csproj.CoreCompileInputs.cache
+C:\Users\Uğur_Ceylan\Desktop\gorsel_programlama\gorselprogramlama\obj\Debug\gorselprogramlama.exe
+C:\Users\Uğur_Ceylan\Desktop\gorsel_programlama\gorselprogramlama\obj\Debug\gorselprogramlama.pdb
