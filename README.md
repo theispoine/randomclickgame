@@ -18,7 +18,7 @@ Random Click Test, kullanıcının fare tıklama hızını ve refleksini test et
 - Oyun ekranı: Oyun süresi ve tıklama sayısını gösteren bir ekran bulunur. Kullanıcı düğmeye tıkladıkça düğme rastgele yerlere gider ve rengi değişir.
 - Zamanlayıcı: Oyun süresini takip etmek için bir zamanlayıcı kullanılır.
 - Skor: Oyun süresi dolunca, kullanıcının tıklama sayısı skor olarak gösterilir.
-- 
+
 ## Neden Kullanılır?
 Fizik tedavi sürecinde motor becerilerin teşvik edilmesini ve reflekslerin geliştirilmesini sağlar.
 Oyunun sürekli renk değiştiren arka planı, kullanıcıyı odaklanmaya teşvik eder ve görsel algıyı iyileştirmeyi hedefler.
